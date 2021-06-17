@@ -1,5 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
-Glad to see you here! ⭐️ ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+Glad to see you here! ⭐️ ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### More about me...
 
@@ -19,4 +19,5 @@ Glad to see you here! ⭐️ ![](https://visitor-badge.glitch.me/badge?page_id=i
 
 ###
 
+![Header](https://content.techgig.com/thumb/msid-75430401,width-860,resizemode-4/5-tips-for-students-to-improve-coding-skills-during-college.jpg?58220)
 
